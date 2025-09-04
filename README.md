@@ -15,7 +15,6 @@
 ---
 
 ## 🛠️ Skills & Technologies
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -26,20 +25,21 @@
 
 ---
 
-## 📊 GitHub Stats  
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seninkullaniciadin&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Veysel-Akilli&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seninkullaniciadin&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veysel-Akilli&layout=compact&theme=radical" alt="Top languages"/>
+</p>
+<!-- Optional: Streaks -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Veysel-Akilli&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
-
+## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/mehmet-veysel-akıllı-956586226" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
