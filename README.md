@@ -26,9 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Veysel-Akilli&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veysel-Akilli&layout=compact&theme=radical" alt="Top languages"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Veysel-Akilli&theme=radical" alt="GitHub Streak"/>
 </p>
 
