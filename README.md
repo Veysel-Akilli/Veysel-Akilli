@@ -1,28 +1,54 @@
-
-<h1 align="center">Hi 👋, I'm Muhammed Talha</h1>
-
-<h3 align="center">A passionate Data Scientist from Turkey</h3>
+<h1 align="center">👋 Hi, I'm Mehmet Veysel Akıllı</h1>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Talha-Bicak&&style=plastics&&color=yellow" />
+  🎓 Computer Engineering student<br>
+  💻 Passionate about Android app development and backend development<br>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+my+Github+repository;)
+## 🚀 About Me
+- 📱 Android Application Development (Kotlin & Java)  
+- ⚡ Backend Development (Python & FastAPI)  
+- 🗄️ Database Management (PostgreSQL)  
 
+---
 
+## 🛠️ Skills & Technologies
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" height="280" width="400">
+## 📊 GitHub Stats  
 
-- 🌱 Software Engineering student
-- 🔭 Currently working on Data Science and Artificial Intelligence algorithms
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seninkullaniciadin&show_icons=true&theme=radical" alt="stats"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seninkullaniciadin&layout=compact&theme=radical" alt="langs"/>
+</p>
 
-<h3 align="left"><br> Languages and Tools:</h3>
-<p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <br><br><br><br> </p>
+---
 
-<br><br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+## 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile ✨</p>
