@@ -3,6 +3,13 @@
 
 ---
 
+## 🚀 About Me
+- 📱 Android Application Development (Kotlin & Java)  
+- ⚡ Backend Development (Python & FastAPI)  
+- 🗄️ Database Management (PostgreSQL)  
+
+---
+
 ## 🛠️ Skills & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -10,20 +17,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
-
----
-
-## 📂 Featured Projects  
-
-- 🚀 [Document Assistant (CV-UP)](https://github.com/Veysel-Akilli/cursor)  
-  AI-powered document assistant to generate **ATS-compliant CVs** and documents.  
-  - Backend: FastAPI + PostgreSQL + Docker  
-  - Mobile: Kotlin + Jetpack Compose (MVVM)  
-  - Features: JWT Auth, Document CRUD, AI-powered CV generation  
 
 ---
 
@@ -32,7 +26,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Veysel-Akilli&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veysel-Akilli&layout=compact&theme=radical" alt="Top languages"/>
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Veysel-Akilli&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📌 Pinned Projects
+<p align="left">
+  <a href="https://github.com/Veysel-Akilli/CV-UP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Veysel-Akilli&repo=your-android-project&theme=radical" />
+  </a>
 </p>
 
 ---
