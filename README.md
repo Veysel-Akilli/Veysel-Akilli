@@ -34,17 +34,6 @@
 
 ---
 
-## 📌 Pinned Projects
-<p align="left">
-  <a href="https://github.com/Veysel-Akilli/your-android-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Veysel-Akilli&repo=your-android-project&theme=radical" />
-  </a>
-  <a href="https://github.com/Veysel-Akilli/your-backend-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Veysel-Akilli&repo=your-backend-project&theme=radical" />
-  </a>
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p align="left">
