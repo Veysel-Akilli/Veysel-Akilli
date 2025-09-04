@@ -1,9 +1,5 @@
-<h1 align="center">👋 Hi, I'm Mehmet Veysel Akıllı</h1>
-
-<p align="center">
-  🎓 Computer Engineering student<br>
-  💻 Passionate about Android app development and backend development<br>
-</p>
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7005C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mehmet+Veysel+Akıllı;Computer+Engineering+Student;Android+%26+Backend+Developer;Always+learning+new+technologies)](https://git.io/typing-svg)
 
 ---
 
@@ -32,9 +28,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veysel-Akilli&layout=compact&theme=radical" alt="Top languages"/>
 </p>
-<!-- Optional: Streaks -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Veysel-Akilli&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Veysel-Akilli&theme=onedark&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -50,5 +52,9 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Veysel-Akilli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
 <p align="center">✨ Thanks for visiting my profile ✨</p>
